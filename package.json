@@ -1,0 +1,16 @@
+{
+  "name": "logicarrowshistory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "retype start",
+    "build": "retype build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "retypeapp-win-x64": "^3.5.0"
+  }
+}
