@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://merinprime.github.io/LogicArrowsInfo/sitemap.xml
+Sitemap: https://logic-arrows-info.vercel.app/sitemap.xml
